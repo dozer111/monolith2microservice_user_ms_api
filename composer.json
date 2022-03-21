@@ -1,0 +1,15 @@
+{
+    "name": "dozer111/monolith2microservice_user_ms_api",
+    "autoload": {
+        "psr-4": {
+            "dozer111\\UsersMicroservice\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dozer111",
+            "email": "alkhonko@gmail.com"
+        }
+    ],
+    "require": {}
+}
